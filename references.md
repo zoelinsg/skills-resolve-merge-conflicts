@@ -1,1 +1,4 @@
-Enter some text that conflicts
+# References
+
+* octocat 1 😈
+* octocat 2 😈
